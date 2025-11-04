@@ -41,7 +41,7 @@ analysis/ → gotowe analizy i raporty
 **Letum Tut**  
 🌍 Polska • 🎓 self-learning path  
 📅 Start: listopad 2025  
-📫 kontakt: (opcjonalnie – np. e-mail lub link do LinkedIn)
+📫 kontakt: letum_wow@onet.pl
 
 ---
 
